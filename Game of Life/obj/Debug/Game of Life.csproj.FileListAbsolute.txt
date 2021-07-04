@@ -1,0 +1,6 @@
+F:\New folder\Game of Life\Game of Life\bin\Debug\Game of Life.exe.config
+F:\New folder\Game of Life\Game of Life\bin\Debug\Game of Life.exe
+F:\New folder\Game of Life\Game of Life\bin\Debug\Game of Life.pdb
+F:\New folder\Game of Life\Game of Life\obj\Debug\Game of Life.csprojAssemblyReference.cache
+F:\New folder\Game of Life\Game of Life\obj\Debug\Game of Life.exe
+F:\New folder\Game of Life\Game of Life\obj\Debug\Game of Life.pdb
